@@ -1,0 +1,21 @@
+{
+  "title": "Test Listing 2",
+  "address": {
+    "buildingNumber": "2",
+    "streetNumber": "75 Bunnerong Road, Kingsford",
+    "city": "Sydney",
+    "state": "New South Wales",
+    "zipcode": "2032",
+    "country": "Australia"
+  },
+  "price": "250",
+  "thumbnail": null,
+  "metadata": {
+    "propertyType": "Flat",
+    "bathrooms": "2",
+    "bedrooms": "2",
+    "beds": "4",
+    "youtube": "https://www.youtube.com/watch?v=l3yHLikvjPU",
+    "amenities": "Pool Table"
+  }
+}

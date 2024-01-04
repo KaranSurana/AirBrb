@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/react": "^14.1.0",
+    "cypress": "^13.5.0"
+  },
+  "dependencies": {
+    "react-datepicker": "^4.21.0"
+  }
+}
